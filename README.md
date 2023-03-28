@@ -13,6 +13,7 @@ This is a Python program that visualizes the logistic map, a mathematical functi
 To use this program, run the following command in your terminal:
 
 ```
+git clone https://github.com/prince206/Logistic_map.git
 python logistic_map_visualizer.py
 ```
 
