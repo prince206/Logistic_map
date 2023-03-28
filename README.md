@@ -27,8 +27,10 @@ The plot will be displayed on a canvas in the GUI window. It will also be saved 
 ### LogisticMapVisualizer
 
 This is the main class of our program. It creates and manages all GUI elements, including labels, text fields, buttons, and canvas. It also handles user input and generates plots based on that input.
+##demo
+<img width="465" alt="Screenshot 2023-03-28 at 6 49 33 PM" src="https://user-images.githubusercontent.com/68004491/228250307-a8055414-5a98-4c28-8f27-2182818be69b.png">
 
-#### Methods
+## Methods
 
 - `__init__(self)`: Initializes an instance of `LogisticMapVisualizer`. Creates a new tkinter window with a title "Logistic Map Visualizer". Initializes class variables for text fields (`x0_entry`, `r_entry`, `n_iterations_entry`), controls frame (`controls_frame`), and plot canvas (`plot_canvas`). Calls `draw_widgets()` method to draw all GUI elements.
 - `draw_widgets(self)`: Draws all GUI elements using tkinter widgets such as labels, text fields, buttons, and canvas.
