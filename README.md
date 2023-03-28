@@ -14,6 +14,7 @@ To use this program, run the following command in your terminal:
 
 ```
 git clone https://github.com/prince206/Logistic_map.git
+cd Logistic_map
 python logistic_map_visualizer.py
 ```
 
