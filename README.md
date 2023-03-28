@@ -27,7 +27,9 @@ The plot will be displayed on a canvas in the GUI window. It will also be saved 
 ### LogisticMapVisualizer
 
 This is the main class of our program. It creates and manages all GUI elements, including labels, text fields, buttons, and canvas. It also handles user input and generates plots based on that input.
-##demo
+
+
+## demo
 <img width="465" alt="Screenshot 2023-03-28 at 6 49 33 PM" src="https://user-images.githubusercontent.com/68004491/228250307-a8055414-5a98-4c28-8f27-2182818be69b.png">
 
 ## Methods
